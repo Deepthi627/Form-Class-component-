@@ -1,0 +1,32 @@
+.main {
+  margin-top: 5em;
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+}
+.ui.main {
+  margin-top: 20%;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+
+.add {
+  margin-top: 10%;
+  margin-left: 40%;
+}
+.contact {
+  margin-top: 10%;
+}
+
+.item {
+  padding: 15px 0px !important;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
